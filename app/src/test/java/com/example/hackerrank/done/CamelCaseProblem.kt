@@ -1,4 +1,4 @@
-package com.example.hackerrank
+package com.example.hackerrank.done
 
 /**
 -- Problem --
